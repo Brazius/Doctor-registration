@@ -1,0 +1,1 @@
+INSERT INTO Doctors(first_name, last_Name, specialization, region) VALUES('Henrikas', 'Daktaras', 'seimos daktaras', 'Kaunas');
